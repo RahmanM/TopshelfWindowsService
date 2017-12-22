@@ -1,0 +1,3 @@
+﻿To install the service:
+
+ServiceTopShelf.exe install --autostart -servicename:topshelftest
